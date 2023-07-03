@@ -1,0 +1,6 @@
+c:\users\zainul.abideen\documents\visual studio 2013\Projects\PatientManagementSystem\PatientManagementSystem\bin\PatientManagementSystem.dll.config
+c:\users\zainul.abideen\documents\visual studio 2013\Projects\PatientManagementSystem\PatientManagementSystem\bin\PatientManagementSystem.dll
+c:\users\zainul.abideen\documents\visual studio 2013\Projects\PatientManagementSystem\PatientManagementSystem\bin\PatientManagementSystem.pdb
+c:\users\zainul.abideen\documents\visual studio 2013\Projects\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\zainul.abideen\documents\visual studio 2013\Projects\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.dll
+c:\users\zainul.abideen\documents\visual studio 2013\Projects\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.pdb
